@@ -1,0 +1,1 @@
+# Bachelor-Thesis-LSTM-and-Logistic-Regression-on-BTC-ETH-using-MAs-RSI
